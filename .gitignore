@@ -1,2 +1,6 @@
 data/
 *.pt
+
+# EuroSAT raw data (too large for git)
+submissions/eurosat_files/EuroSAT/
+submissions/eurosat_files/EuroSATallBands/
